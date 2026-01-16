@@ -1,7 +1,7 @@
  Race tracker app
  ================
 Race tracker app is an app I built to practice/experiment the skills I gained in `"Coroutines in Android"`
-codelab. The app simulates race progress between two players.
+codelab. The app simulates race progress between two players concurrently.
 
 In android apps, Coroutines help manage long-running tasks that might otherwise block the 
 main thread and cause your app to become unresponsive.
